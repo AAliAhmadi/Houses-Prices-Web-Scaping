@@ -1,0 +1,1 @@
+I this project, I scraped kilid.com to get information about house prices in Tehran based on some metrics in their website such as space and number of rooms, then save it in a MySql and at the end, predict house prices by a simple linear regression model.
